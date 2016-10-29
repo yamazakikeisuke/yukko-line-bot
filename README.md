@@ -1,5 +1,5 @@
 # yukko-line-bot
-PythonとLINE Messaging APIを用いたChatbotの実装サンプルです。  
+PythonとLINE Messaging APIを用いたChatbotの実装サンプルですのクローンです。  
 ユーザーとLINE上で雑談することができます。  
 おしゃべり機能にはdocomo雑談対話APIを、Q&A機能にdocomo知識Q&AAPIを使用しています。
 #環境構成
